@@ -1,3 +1,3 @@
-# Movie Recommendation System in C
+# Movie Recommendation System
 
-Movie Recommendation algorithm using undirected, adjacency matrix graphs.
+Implemented Movie Recommendation System in C, employing undirected graphs represented through adjacency matrices.
